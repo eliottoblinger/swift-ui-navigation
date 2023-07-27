@@ -15,3 +15,5 @@ In this project, I focused on the following concepts:
 2. **Button Action Handling:** I added functionality to the button, enabling it to navigate to the next screen upon clicking.
 
 ## Demo
+
+<video src="https://github.com/eliottoblinger/swift-ui-navigation/assets/73584972/8286981f-0c0c-4275-88be-0b437362ca22"/>
